@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "이건 문자 1이야",
+    "description": "숫자 1에 대한 이야기",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 2,
+    "title": "이건 2가 아니야",
+    "description": "무슨 이야기야 2",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 3,
+    "title": "하지만 3이야",
+    "description": "우리 3명 사이",
+    "image": "https://picsum.photos/200/300"
+  }
+]

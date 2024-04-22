@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Travel",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 2,
+    "title": "Lifestyle",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 3,
+    "title": "Family",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 4,
+    "title": "Health",
+    "image": "https://picsum.photos/200/300"
+  }
+]
